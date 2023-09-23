@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+}
+div.container{
+    background-color: white;
+    width: 500px;
+    height: 650px;
+    margin: auto;
+    margin-top: 200px;
+}
+p{
+    margin:0;
+}
+span{
+    margin-left: 10px;
+}
+ul{
+    margin:0px;
+    margin-top: 10px;
+    color: grey;
+}
+.verified{
+    margin-top: -10px;
+    margin-left: -250px;
+}
+div.head{
+    display: inline-flex;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.fa-brands{
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.fa-solid{
+    margin-top: 20px;
+    margin-left: 270px;
+}
+div.post img{
+    width: 500px;
+    height: 400px;
+}
+div.icons {
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+div.description p{
+    margin-left: 10px;
+    margin: 10px;
+}
+div.fav{
+    display: inline-block;
+    margin-left: 370px;
+}
